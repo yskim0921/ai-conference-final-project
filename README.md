@@ -3,3 +3,6 @@ AI 회의관리 프로젝트
 
 # git clone 주소
 git clone https://github.com/yskim0921/ai-conference-final-project.git
+
+# 원격 저장소 갱신하기 (pull)
+git pull origin develop
